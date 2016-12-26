@@ -1,2 +1,2 @@
 # TwoVsThem
-At last ir is time to write a game.
+At last it is time to write a game.
